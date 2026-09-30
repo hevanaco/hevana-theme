@@ -1,6 +1,6 @@
 {
 	"$schema": "vscode://schemas/color-theme",
-	"name": "Darwin Light",
+	"name": "Hevana Light",
 	"type": "light",
 	"colors": {
 		"focusBorder": "#B8B8BD",
