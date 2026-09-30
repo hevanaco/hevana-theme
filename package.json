@@ -5,6 +5,7 @@
   "version": "1.26.0",
   "author": "Hasnain Izhar",
   "publisher": "Darvien",
+  "icon": "images/icon.png",
   "repository": "https://github.com/darvien/darvien-theme.git",
   "engines": {
     "vscode": "^1.85.0"
