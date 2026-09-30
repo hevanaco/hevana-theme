@@ -14,11 +14,34 @@ A modern VS Code theme with polished dark and light variants.
 - Minimal UI distractions
 
 ## Dark Theme
-<img width="1920" height="1140" alt="main dart - nemaya - Cursor 30_09_2026 10_04_02 PM" src="https://github.com/user-attachments/assets/0416ccdb-572b-44c0-a790-b490729454c9" />
 
+<div align="center">
+<img width="100%" style="height: auto;" alt="Dark Theme Screenshot" src="https://github.com/user-attachments/assets/0416ccdb-572b-44c0-a790-b490729454c9" />
+</div>
+
+## Milky Pink - On Baby Girl Special Wish 🥰🫶🏼
+
+<div align="center">
+  <img width="100%" style="height: auto;" alt="Milky Pink Theme Screenshot" src="https://github.com/user-attachments/assets/85023816-1ff1-47cf-89e7-cb8f1f729197" />
+</div>
 
 ## Light Theme
-<img width="1920" height="1140" alt="main dart - nemaya - Cursor 30_09_2026 10_03_44 PM" src="https://github.com/user-attachments/assets/e6ce37f0-342b-4e3b-adc5-c1544722c401" />
+
+<div align="center">
+<img width="100%" style="height: auto;" alt="Light Theme Screenshot" src="https://github.com/user-attachments/assets/e6ce37f0-342b-4e3b-adc5-c1544722c401" />
+</div>
+
+## Burgundy Light Theme
+
+<div align="center">
+  <img width="100%" style="height: auto;" alt="Burgundy Light Theme Screenshot" src="https://github.com/user-attachments/assets/acf7c5a6-5413-4ec3-a687-e7ffae20d00a" />
+</div>
+
+## Burgundy Dark Theme
+
+<div align="center">
+  <img width="100%" style="height: auto;" alt="Burgundy Dark Theme Screenshot" src="https://github.com/user-attachments/assets/0857aa3f-df57-463c-a6ce-2186f818701c" />
+</div>
 
 ## Installation
 
