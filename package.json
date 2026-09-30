@@ -2,7 +2,7 @@
   "name": "hevana-theme",
   "displayName": "Hevana Theme",
   "description": "A minimal well-focused theme crafted for deep work, clear code, and effortless flow—designed to make long coding sessions feel productive and more enjoyable.",
-  "version": "1.28.0",
+  "version": "1.29.0",
   "author": "Hasnain Izhar",
   "publisher": "Hevana",
   "icon": "images/icon.png",
@@ -32,6 +32,12 @@
         "type": "light",
         "uiTheme": "vs",
         "path": "./themes/hevana-pink-milky-theme.json" 
+      },
+      {
+        "label": "Hevana Burgundy (Light)",
+        "type": "light",
+        "uiTheme": "vs",
+        "path": "./themes/hevana-burgundy-light-theme.json" 
       }
     ]
   }
