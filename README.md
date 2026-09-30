@@ -1,10 +1,12 @@
+<div align="left">
+<img width="96" height="96" alt="Icon" src="https://github.com/user-attachments/assets/9de23a7b-da73-4b79-b44f-43ca77456250" />
+
 # Hevana Theme
 
-<img width="512" height="512" alt="Frame 5 (1)" src="https://github.com/user-attachments/assets/9de23a7b-da73-4b79-b44f-43ca77456250" />
 
 A modern VS Code theme with polished dark and light variants.
 
-## Preview
+</div>
 
 ### Dark Theme
 ![Dark Theme Preview](https://via.placeholder.com/1200x700?text=Dark+Theme+Preview)
