@@ -435,33 +435,33 @@
 		}
 	],
 	"semanticHighlighting": true,
-	"semanticTokenColors": {
-		"namespace": "#5B8C00",
-		"type": "#A16207",
-		"class": "#B45309",
-		"enum": "#C2410C",
-		"interface": "#0E7490",
-		"struct": "#BE5A38",
-		"typeParameter": "#B83280",
-		"function": "#2D5BD8",
-		"method": "#0369A1",
-		"parameter": "#C25E00",
-		"variable": "#24243E",
-		"property": "#0F766E",
-		"enumMember": "#8E44AD",
-		"event": "#7B2CBF",
-		"decorator": "#C93400",
-		"macro": "#B91C1C",
-		"comment": "#2E7D32",
-		"number": "#8E44AD",
-		"string": "#1E8E63",
-		"keyword": "#D6246E",
-		"modifier": "#C81E63",
-		"regexp": "#C2410C",
-		"operator": "#0284C7",
-		"variable.readonly": "#0B6BCB",
-		"*.deprecated": {
-			"strikethrough": true
-		}
-	}
+"semanticTokenColors": {
+    "namespace": "#4D7C0F",
+    "type": "#9A6700",
+    "class": "#B45309",
+    "enum": "#C2410C",
+    "interface": "#0F7490",
+    "struct": "#B84A2F",
+    "typeParameter": "#A21CAF",
+    "function": "#2457D6",
+    "method": "#0369A1",
+    "parameter": "#B85C00",
+    "variable": "#25253A",
+    "property": "#087F75",
+    "enumMember": "#7C3AED",
+    "event": "#7026B9",
+    "decorator": "#C2410C",
+    "macro": "#B91C1C",
+    "comment": "#34833B",
+    "number": "#7C3AED",
+    "string": "#16845C",
+    "keyword": "#D21F67",
+    "modifier": "#BE185D",
+    "regexp": "#C2410C",
+    "operator": "#087EA4",
+    "variable.readonly": "#075FC4",
+    "*.deprecated": {
+        "strikethrough": true
+    }
+}
 }
