@@ -1,12 +1,12 @@
 {
-  "name": "darvien-theme",
-  "displayName": "Darvien Theme",
+  "name": "hevana-theme",
+  "displayName": "Hevana Theme",
   "description": "A minimal well-focused theme crafted for deep work, clear code, and effortless flow—designed to make long coding sessions feel productive and more enjoyable.",
   "version": "1.26.0",
   "author": "Hasnain Izhar",
   "publisher": "Darvien",
   "icon": "images/icon.png",
-  "repository": "https://github.com/darvien/darvien-theme.git",
+  "repository": "https://github.com/hevana/hevana-theme.git",
   "engines": {
     "vscode": "^1.85.0"
   },
@@ -16,14 +16,16 @@
   "contributes": {
     "themes": [
       {
-        "label": "Darvien (Dark)",
+        "label": "Hevana",
+        "type": "dark",
         "uiTheme": "vs-dark",
-        "path": "./themes/darvien-dark-color-theme.json"
+        "path": "./themes/hevana-dark-color-theme.json"
       },
       {
-        "label": "Darvien (Light)",
+        "label": "Hevana",
+        "type": "light",
         "uiTheme": "vs",
-        "path": "./themes/darvien-light-color-theme.json"
+        "path": "./themes/hevana-light-color-theme.json"
       }
     ]
   }
