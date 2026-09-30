@@ -2,11 +2,11 @@
   "name": "darvien-theme",
   "displayName": "Darvien Theme",
   "description": "A minimal well-focused theme crafted for deep work, clear code, and effortless flow—designed to make long coding sessions feel productive and more enjoyable.",
-  "version": "0.5.0",
+  "version": "1.0.0",
   "author": "Hasnain Izhar",
   "publisher": "Darvien",
   "engines": {
-    "vscode": "^1.138.0"
+    "vscode": "^1.85.0"
   },
   "categories": [
     "Themes"
@@ -14,14 +14,14 @@
   "contributes": {
     "themes": [
       {
-        "label": "Darwin (Dark)",
+        "label": "Darvien (Dark)",
         "uiTheme": "vs-dark",
-        "path": "./themes/darwin-dark-color-theme.json"
+        "path": "./themes/darvien-dark-color-theme.json"
       },
       {
-        "label": "Darwin (Light)",
-        "uiTheme": "vs-light",
-        "path": "./themes/darwin-light-color-theme.json"
+        "label": "Darvien (Light)",
+        "uiTheme": "vs",
+        "path": "./themes/darvien-light-color-theme.json"
       }
     ]
   }
