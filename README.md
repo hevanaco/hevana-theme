@@ -1,16 +1,37 @@
-# darwin-theme README
+# Hevana Theme
 
-## Working with Markdown
+![Hevana Logo](https://via.placeholder.com/400x100?text=Hevana+Logo)
 
-You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
+A modern VS Code theme with polished dark and light variants.
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux).
-* Toggle preview (`Shift+Cmd+V` on macOS or `Shift+Ctrl+V` on Windows and Linux).
-* Press `Ctrl+Space` (Windows, Linux, macOS) to see a list of Markdown snippets.
+## Preview
 
-## For more information
+### Dark Theme
+![Dark Theme Preview](https://via.placeholder.com/1200x700?text=Dark+Theme+Preview)
 
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+### Light Theme
+![Light Theme Preview](https://via.placeholder.com/1200x700?text=Light+Theme+Preview)
 
-**Enjoy!**
+## Installation
+
+1. Open VS Code
+2. Go to Extensions
+3. Search for "Hevana Theme"
+4. Click Install
+
+## Usage
+
+1. Open the Command Palette
+2. Run "Preferences: Color Theme"
+3. Select "Hevana Theme"
+
+## Features
+
+- Clean, readable editor colors
+- Balanced dark and light themes
+- Focused syntax highlighting
+- Minimal UI distractions
+
+## License
+
+MIT
